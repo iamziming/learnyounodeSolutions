@@ -1,4 +1,4 @@
-# My solutions to learnyounode.
+# Solutions to the learnyounode workshop
 
 #####1. HELLO WORLD
 ```JavaScript
